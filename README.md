@@ -1,2 +1,1 @@
-# upm
-Unreal Engine Plugin Manager
+# UPM -- Unreal Engine Plugin Manager
